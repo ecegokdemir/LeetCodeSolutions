@@ -1,0 +1,33 @@
+# LeetCode Solutions
+
+[My LeetCode Profile 🔗](https://leetcode.com/ecegokdemir/)
+
+ ## Easy
+
+| # |  Title  | 
+|---|  -----  | 
+| 1 | [Two Sum](/Easy/1-TwoSum/) |
+| 9 | [Palindrome Number](/Easy/9-PalindromeNumber/)| 
+| 13 | [Roman to Integer](/Easy/13-RomanToInteger/)| 
+| 20 | [Valid Parentheses](/Easy/20-ValidParentheses/)| 
+| 58 | [Length of Last Word](/Easy/58-LengthofLastWord/)| 
+| 69 | [Sqrt(x)](/Easy/69-Sqrt/)| 
+| 125 | [Valid Palindrome](/Easy/125-ValidPalindrome/)| 
+| 392 | [Is Subsequence](/Easy/392-IsSubsequence/)| 
+| 415 | [Add Strings](/Easy/415-AddStrings/)| 
+
+ ## Medium
+
+| # |  Title  | 
+|---|  -----  | 
+| 50 | [Pow(x,n) ](/Medium/50-Pow/)|
+
+
+<!-- ## Hard
+
+| # |  Title  |   
+|---|  -----  |  -->
+
+
+
+
