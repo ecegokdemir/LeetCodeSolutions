@@ -9,6 +9,7 @@
 | 1 | [Two Sum](/Easy/1-TwoSum/) |
 | 9 | [Palindrome Number](/Easy/9-PalindromeNumber/)| 
 | 13 | [Roman to Integer](/Easy/13-RomanToInteger/)| 
+| 14 | [Longest Common Prefix](/Easy/14-LongestCommonPrefix/)| 
 | 20 | [Valid Parentheses](/Easy/20-ValidParentheses/)| 
 | 58 | [Length of Last Word](/Easy/58-LengthofLastWord/)| 
 | 69 | [Sqrt(x)](/Easy/69-Sqrt/)| 
