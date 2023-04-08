@@ -1,7 +1,7 @@
 public class IsSubsequence {
 
     public static void main(String[] args) {
-        System.out.println(isSubsequence("abcz", "ahbkcd"));
+       
     }
 
     public static boolean isSubsequence(String s, String t) {

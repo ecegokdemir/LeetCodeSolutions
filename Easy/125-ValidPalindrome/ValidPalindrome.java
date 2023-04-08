@@ -1,7 +1,7 @@
 public class ValidPalindrome {
 
     public static void main(String[] args) {
-        System.out.println(isPalindrome("0P"));
+        
     }
 
     public static boolean isPalindrome(String s) {

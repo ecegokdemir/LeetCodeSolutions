@@ -2,8 +2,7 @@
 public class TwoSum {
 
     public static void main(String[] args) {
-        int[] nums= {15,11,2,7};
-        System.out.println(twoSum(nums,9));
+       
         
     }
 
