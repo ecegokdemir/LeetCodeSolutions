@@ -21,6 +21,7 @@
 
 | # |  Title  | 
 |---|  -----  | 
+| 7 | [ Reverse Integer ](/Medium/7-ReverseInteger/)|
 | 50 | [Pow(x,n) ](/Medium/50-Pow/)|
 
 
