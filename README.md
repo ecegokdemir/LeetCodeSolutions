@@ -14,6 +14,7 @@
 | 58 | [Length of Last Word](/Easy/58-LengthofLastWord/)| 
 | 69 | [Sqrt(x)](/Easy/69-Sqrt/)| 
 | 125 | [Valid Palindrome](/Easy/125-ValidPalindrome/)| 
+| 217 | [Contains Duplicate](/Easy/217-ContainsDuplicate/)| 
 | 283 | [Move Zeroes](/Easy/283-MoveZeroes/)| 
 | 392 | [Is Subsequence](/Easy/392-IsSubsequence/)| 
 | 415 | [Add Strings](/Easy/415-AddStrings/)| 
