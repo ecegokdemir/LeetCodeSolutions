@@ -18,6 +18,8 @@
 | 283 | [Move Zeroes](/Easy/283-MoveZeroes/)| 
 | 392 | [Is Subsequence](/Easy/392-IsSubsequence/)| 
 | 415 | [Add Strings](/Easy/415-AddStrings/)| 
+| 1470 | [Shuffle the Array](/Easy/1470-ShuffletheArray/)| 
+
 
  ## Medium
 
