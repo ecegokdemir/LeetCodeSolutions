@@ -19,6 +19,8 @@
 | 392 | [Is Subsequence](/Easy/392-IsSubsequence/)| 
 | 415 | [Add Strings](/Easy/415-AddStrings/)| 
 | 1470 | [Shuffle the Array](/Easy/1470-ShuffletheArray/)| 
+| 1588 | [Sum of All Odd Length Subarrays](/Easy/1588-SumofAllOddLengthSubarrays/)| 
+
 
 
  ## Medium
