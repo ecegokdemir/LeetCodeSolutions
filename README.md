@@ -29,7 +29,7 @@
 |---|  -----  | 
 | 7 | [ Reverse Integer ](/Medium/7-ReverseInteger/)|
 | 50 | [Pow(x,n) ](/Medium/50-Pow/)|
-
+| 287 | [Find the Duplicate Number](/Medium/287-FindtheDuplicateNumber/)|
 
 <!-- ## Hard
 
