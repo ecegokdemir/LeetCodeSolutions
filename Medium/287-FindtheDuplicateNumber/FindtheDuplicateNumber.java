@@ -1,9 +1,9 @@
 
 public class FindtheDuplicateNumber {
     public static void main(String[] args) {
-        int[] nums= {1,2,3,3};
-        System.out.println(findDuplicate(nums));
+        
     }
+    
     public static int findDuplicate(int[] nums) {
        
         int left = 1;
