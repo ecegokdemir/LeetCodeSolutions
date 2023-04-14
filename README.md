@@ -1,8 +1,8 @@
-# LeetCode Solutions
+## LeetCode Solutions
 
 [My LeetCode Profile 🔗](https://leetcode.com/ecegokdemir/)
 
- ## Easy
+ ### Easy
 
 | # |  Title  | 
 |---|  -----  | 
@@ -12,6 +12,7 @@
 | 14 | [Longest Common Prefix](/Easy/14-LongestCommonPrefix/)| 
 | 20 | [Valid Parentheses](/Easy/20-ValidParentheses/)| 
 | 58 | [Length of Last Word](/Easy/58-LengthofLastWord/)| 
+| 66 | [Plus One](/Easy/66-PlusOne/)| 
 | 69 | [Sqrt(x)](/Easy/69-Sqrt/)| 
 | 125 | [Valid Palindrome](/Easy/125-ValidPalindrome/)| 
 | 217 | [Contains Duplicate](/Easy/217-ContainsDuplicate/)| 
@@ -23,7 +24,7 @@
 
 
 
- ## Medium
+ ### Medium
 
 | # |  Title  | 
 |---|  -----  | 
@@ -32,7 +33,7 @@
 | 287 | [Find the Duplicate Number](/Medium/287-FindtheDuplicateNumber/)|
 
 
-<!-- ## Hard
+<!-- ### Hard
 
 | # |  Title  |   
 |---|  -----  |  -->
