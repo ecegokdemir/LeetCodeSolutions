@@ -19,6 +19,7 @@
 | 217 | [Contains Duplicate](/Easy/217-ContainsDuplicate/)| 
 | 283 | [Move Zeroes](/Easy/283-MoveZeroes/)| 
 | 392 | [Is Subsequence](/Easy/392-IsSubsequence/)| 
+| 414 | [Third Maximum Number](/Easy/414-ThirdMaximumNumber/)| 
 | 415 | [Add Strings](/Easy/415-AddStrings/)| 
 | 1470 | [Shuffle the Array](/Easy/1470-ShuffletheArray/)| 
 | 1588 | [Sum of All Odd Length Subarrays](/Easy/1588-SumofAllOddLengthSubarrays/)| 
