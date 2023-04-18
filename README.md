@@ -16,6 +16,7 @@
 | 69 | [Sqrt(x)](/Easy/69-Sqrt/)| 
 | 125 | [Valid Palindrome](/Easy/125-ValidPalindrome/)| 
 | 136 | [Single Number](/Easy/136-SingleNumber/)|
+| 205 | [Isomorphic Strings](/Easy/205-IsomorphicStrings/)|
 | 217 | [Contains Duplicate](/Easy/217-ContainsDuplicate/)| 
 | 283 | [Move Zeroes](/Easy/283-MoveZeroes/)| 
 | 392 | [Is Subsequence](/Easy/392-IsSubsequence/)| 
