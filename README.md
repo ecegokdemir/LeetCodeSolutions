@@ -17,6 +17,7 @@
 | 125 | [Valid Palindrome](/Easy/125-ValidPalindrome/)| 
 | 136 | [Single Number](/Easy/136-SingleNumber/)|
 | 169 | [Majority Element](/Easy/169-MajorityElement/)|
+| 202 | [Happy Number](/Easy/202-HappyNumber/)|
 | 205 | [Isomorphic Strings](/Easy/205-IsomorphicStrings/)|
 | 217 | [Contains Duplicate](/Easy/217-ContainsDuplicate/)| 
 | 283 | [Move Zeroes](/Easy/283-MoveZeroes/)| 
