@@ -21,6 +21,7 @@
 | 205 | [Isomorphic Strings](/Easy/205-IsomorphicStrings/)|
 | 217 | [Contains Duplicate](/Easy/217-ContainsDuplicate/)| 
 | 231 | [Power of Two](/Easy/231-PowerofTwo/)| 
+| 242 | [Valid Anagram](/Easy/242-ValidAnagram/)| 
 | 283 | [Move Zeroes](/Easy/283-MoveZeroes/)| 
 | 392 | [Is Subsequence](/Easy/392-IsSubsequence/)| 
 | 414 | [Third Maximum Number](/Easy/414-ThirdMaximumNumber/)| 
