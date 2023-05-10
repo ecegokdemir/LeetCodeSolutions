@@ -29,10 +29,10 @@
 | 415 | [Add Strings](/Easy/415-AddStrings/)| 
 | 1470 | [Shuffle the Array](/Easy/1470-ShuffletheArray/)| 
 | 1588 | [Sum of All Odd Length Subarrays](/Easy/1588-SumofAllOddLengthSubarrays/)| 
+| 2325 | [Decode the Message](/Easy/2325-DecodetheMessage/)| 
 | 2427 | [Number of Common Factors](/Easy/2427-NumberofCommonFactors/)| 
 | 2520 | [Count the Digits](/Easy/2520-CounttheDigits/)| 
 | 2652 | [Sum Multiples](/Easy/2652-SumMultiples/)| 
-
 
 
 
