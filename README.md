@@ -24,6 +24,7 @@
 | 242 | [Valid Anagram](/Easy/242-ValidAnagram/)| 
 | 268 | [Missing Number](/Easy/268-MissingNumber/)|
 | 283 | [Move Zeroes](/Easy/283-MoveZeroes/)| 
+| 389 | [Find the Difference](/Easy/389-FindtheDifference/)| 
 | 392 | [Is Subsequence](/Easy/392-IsSubsequence/)| 
 | 414 | [Third Maximum Number](/Easy/414-ThirdMaximumNumber/)| 
 | 415 | [Add Strings](/Easy/415-AddStrings/)| 
