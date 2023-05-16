@@ -27,6 +27,7 @@
 | 290 | [Word Pattern](/Easy/290-WordPattern/)| 
 | 389 | [Find the Difference](/Easy/389-FindtheDifference/)| 
 | 392 | [Is Subsequence](/Easy/392-IsSubsequence/)| 
+| 409 | [Longest Palindrome](/Easy/409-LongestPalindrome/)| 
 | 414 | [Third Maximum Number](/Easy/414-ThirdMaximumNumber/)| 
 | 415 | [Add Strings](/Easy/415-AddStrings/)| 
 | 1470 | [Shuffle the Array](/Easy/1470-ShuffletheArray/)| 
