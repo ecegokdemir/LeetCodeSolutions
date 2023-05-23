@@ -22,6 +22,7 @@
 | 217 | [Contains Duplicate](/Easy/217-ContainsDuplicate/)| 
 | 231 | [Power of Two](/Easy/231-PowerofTwo/)| 
 | 242 | [Valid Anagram](/Easy/242-ValidAnagram/)| 
+| 258 | [Add Digits](/Easy/258-AddDigits/)| 
 | 268 | [Missing Number](/Easy/268-MissingNumber/)|
 | 283 | [Move Zeroes](/Easy/283-MoveZeroes/)| 
 | 290 | [Word Pattern](/Easy/290-WordPattern/)| 
