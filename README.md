@@ -37,8 +37,10 @@
 | 1588 | [Sum of All Odd Length Subarrays](/Easy/1588-SumofAllOddLengthSubarrays/)| 
 | 1903 | [Largest Odd Number in String](/Easy/1903-LargestOddNumberinString/)| 
 | 1991 | [Find the Middle Index in Array](/Easy/1991-FindtheMiddleIndexinArray/)| 
+| 2235 | [Add Two Integers](/Easy/2235-AddTwoIntegers/)| 
 | 2325 | [Decode the Message](/Easy/2325-DecodetheMessage/)| 
 | 2427 | [Number of Common Factors](/Easy/2427-NumberofCommonFactors/)| 
+| 2455 | [Average Value](/Easy/2455-AverageValue/)| 
 | 2520 | [Count the Digits](/Easy/2520-CounttheDigits/)| 
 | 2652 | [Sum Multiples](/Easy/2652-SumMultiples/)| 
 
