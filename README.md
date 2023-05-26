@@ -14,6 +14,7 @@
 | 58 | [Length of Last Word](/Easy/58-LengthofLastWord/)| 
 | 66 | [Plus One](/Easy/66-PlusOne/)| 
 | 69 | [Sqrt(x)](/Easy/69-Sqrt/)| 
+| 70 | [Climbing Stairs](/Easy/70-ClimbingStairs/)|
 | 125 | [Valid Palindrome](/Easy/125-ValidPalindrome/)| 
 | 136 | [Single Number](/Easy/136-SingleNumber/)|
 | 169 | [Majority Element](/Easy/169-MajorityElement/)|
