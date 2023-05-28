@@ -36,6 +36,7 @@
 | 509 | [FibonacciNumber](/Easy/509-FibonacciNumber/)| 
 | 560 | [Subarray Sum Equals K](/Easy/560-SubarraySumEqualsK/)| 
 | 1037 | [Valid Boomerang](/Easy/1037-ValidBoomerang/)|
+| 1232 | [Check Straight Line](/Easy/1232-CheckStraightLine/)|
 | 1470 | [Shuffle the Array](/Easy/1470-ShuffletheArray/)| 
 | 1588 | [Sum of All Odd Length Subarrays](/Easy/1588-SumofAllOddLengthSubarrays/)| 
 | 1903 | [Largest Odd Number in String](/Easy/1903-LargestOddNumberinString/)| 
