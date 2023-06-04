@@ -28,6 +28,7 @@
 | 283 | [Move Zeroes](/Easy/283-MoveZeroes/)| 
 | 290 | [Word Pattern](/Easy/290-WordPattern/)| 
 | 342 | [Power of Four](/Easy/342-PowerofFour/)| 
+| 344 | [Reverse String](/Easy/344-ReverseString/)| 
 | 389 | [Find the Difference](/Easy/389-FindtheDifference/)| 
 | 392 | [Is Subsequence](/Easy/392-IsSubsequence/)| 
 | 409 | [Longest Palindrome](/Easy/409-LongestPalindrome/)| 
