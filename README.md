@@ -20,6 +20,7 @@
 | 169 | [Majority Element](/Easy/169-MajorityElement/)|
 | 202 | [Happy Number](/Easy/202-HappyNumber/)|
 | 205 | [Isomorphic Strings](/Easy/205-IsomorphicStrings/)|
+| 206 | [ReverseLinkedList](/Easy/206-ReverseLinkedList/)|
 | 217 | [Contains Duplicate](/Easy/217-ContainsDuplicate/)| 
 | 231 | [Power of Two](/Easy/231-PowerofTwo/)| 
 | 242 | [Valid Anagram](/Easy/242-ValidAnagram/)| 
