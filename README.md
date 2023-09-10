@@ -18,6 +18,7 @@
 | 69 | [Sqrt(x)](/Easy/69-Sqrt/)| 
 | 70 | [Climbing Stairs](/Easy/70-ClimbingStairs/)|
 | 118 | [Pascal's Triangle](/Easy/118-PascalsTriangle/)|
+| 119 | [Pascal's Triangle 2](/Easy/119-PascalsTriangle2/)|
 | 125 | [Valid Palindrome](/Easy/125-ValidPalindrome/)| 
 | 136 | [Single Number](/Easy/136-SingleNumber/)|
 | 169 | [Majority Element](/Easy/169-MajorityElement/)|
