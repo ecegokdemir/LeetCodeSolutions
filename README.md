@@ -11,6 +11,7 @@
 | 13 | [Roman to Integer](/Easy/13-RomanToInteger/)| 
 | 14 | [Longest Common Prefix](/Easy/14-LongestCommonPrefix/)| 
 | 20 | [Valid Parentheses](/Easy/20-ValidParentheses/)| 
+| 26 | [Remove Duplicates](/Easy/26-RemoveDuplicates/)| 
 | 27 | [Remove Element](/Easy/27-RemoveElement/)| 
 | 58 | [Length of Last Word](/Easy/58-LengthofLastWord/)| 
 | 66 | [Plus One](/Easy/66-PlusOne/)| 
