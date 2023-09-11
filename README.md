@@ -64,6 +64,7 @@
 | 7 | [ Reverse Integer ](/Medium/7-ReverseInteger/)|
 | 36 | [Valid Sudoku](/Medium/36-ValidSudoku/)|
 | 50 | [Pow(x,n) ](/Medium/50-Pow/)|
+| 75 | [Sort Colors](/Medium/75-SortColors/)|
 | 151 | [Reverse Words in a String ](/Medium/151-ReverseWordsinaString/)|
 | 287 | [Find the Duplicate Number](/Medium/287-FindtheDuplicateNumber/)|
 
